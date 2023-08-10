@@ -1,0 +1,4 @@
+.vscode
+*pycache*
+.env
+o365_token.txt
